@@ -1,0 +1,8 @@
+langchain
+langchain_community
+langserve[all]
+python-dotenv
+langchain_google_genai
+openai 
+requests
+langchain-openai 
